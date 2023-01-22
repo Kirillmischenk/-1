@@ -1,0 +1,7 @@
+.block{
+    position: fixed;
+    top: 100px;
+    bottom:100px;
+    right:50px;
+    left:0;
+}

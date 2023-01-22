@@ -1,0 +1,16 @@
+.block{
+    color: red;
+}
+
+.block{
+    animation: color-block  1s infinite;
+  
+ }
+
+@keyframes color-block{
+
+100%{
+background-color:black;
+}
+}
+

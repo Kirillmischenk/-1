@@ -1,0 +1,11 @@
+.button{
+    transition: border-radius 3s 3s;
+}
+
+
+.button:hover{
+    background-color:black;
+    border-radius:5px ;
+    }
+
+  

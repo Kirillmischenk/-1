@@ -7,13 +7,10 @@
     box-shadow:0 0 10px rgb(83,83,83);
     box-sizing : 5px;
 }
-block3{
-    background: linear-gradient(#7dc867,#cf5e);
-}
 
 
 .block{
-    
+    background: linear-gradient(#7dc867,#cf5e);
     background:url(images/dog.jpg) 50% 50% no-repeat;
     
 }
